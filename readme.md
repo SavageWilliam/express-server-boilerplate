@@ -2,7 +2,7 @@
 
 Express server with configured express-handlebars templating engine.
 
-##Installation
+## Installation
 
 - Run `git clone https://github.com/SavageWilliam/express-server-boilerplate.git` in your terminal.
 - cd into the newly created directory.
